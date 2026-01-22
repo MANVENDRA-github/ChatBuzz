@@ -7,3 +7,5 @@ Stream API
 <br>
 Axios
 <br>
+JWT authentication
+
