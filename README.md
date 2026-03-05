@@ -2,12 +2,7 @@
 
 
 Tech Stack: _**MERN**_
-<br>
 Stream API
-<br>
 Axios
-<br>
 JWT authentication
-<br>
 Tanstack Query
-<br>
